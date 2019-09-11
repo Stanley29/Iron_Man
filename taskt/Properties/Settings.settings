@@ -1,0 +1,522 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="taskt.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ActivateWindow_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Активировать окно</Value>
+    </Setting>
+    <Setting Name="Window_Group" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Комманды окон</Value>
+    </Setting>
+    <Setting Name="AddToVariable_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Добавить к переменной</Value>
+    </Setting>
+    <Setting Name="BeginContinousLoop_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Начать цикл</Value>
+    </Setting>
+    <Setting Name="AddVariable_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Новая переменная</Value>
+    </Setting>
+    <Setting Name="BeginExcelDatasetLoop_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Начать цикл данных Excel</Value>
+    </Setting>
+    <Setting Name="BeginIf_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Начать условную ветку</Value>
+    </Setting>
+    <Setting Name="BeginListLoop_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Начать цикл по элементам списка</Value>
+    </Setting>
+    <Setting Name="BeginNumberOfTimesLoop_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Начать цикл, выполняющийся несколько раз</Value>
+    </Setting>
+    <Setting Name="ClipboardGetText_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Получить текст из буфера обмена</Value>
+    </Setting>
+    <Setting Name="ClipboardSetText_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Добавить текст в буфер обмена</Value>
+    </Setting>
+    <Setting Name="CloseWindow_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Закрыть окно</Value>
+    </Setting>
+    <Setting Name="Comment_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Комментарий</Value>
+    </Setting>
+    <Setting Name="DatabaseRunQuery_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Запустить запрос к базе данных</Value>
+    </Setting>
+    <Setting Name="DateCalculation_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Посчитать дату</Value>
+    </Setting>
+    <Setting Name="DeleteFile_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Удалить файл</Value>
+    </Setting>
+    <Setting Name="Else_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Альтернативная ветка</Value>
+    </Setting>
+    <Setting Name="EndIf_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Закончить условную ветку</Value>
+    </Setting>
+    <Setting Name="EndLoop_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Закончить цикл</Value>
+    </Setting>
+    <Setting Name="EnvironmentVariable_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Переменная среды</Value>
+    </Setting>
+    <Setting Name="ErrorHandling_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ветвь ошибки</Value>
+    </Setting>
+    <Setting Name="ExcelActivateSheet_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Активировать лист Excel</Value>
+    </Setting>
+    <Setting Name="ExcelAddWorkbook_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Добавить файл Excel</Value>
+    </Setting>
+    <Setting Name="ExcelCloseApplication_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Закрыть Excel</Value>
+    </Setting>
+    <Setting Name="ExcelCreateDataSet_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Создать набор данных Excel</Value>
+    </Setting>
+    <Setting Name="ExcelDeleteCell_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Удалить ячейку Excel</Value>
+    </Setting>
+    <Setting Name="ExcelDeleteRow_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ExcelGetCell_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ExcelGetLastRow_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ExcelGoToCell_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ExcelOpenWorkbook_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ExcelRunMacro_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ExcelSaveAs_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ExcelSave_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ExcelSetCell_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ExecuteDLL_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ExitLoop_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FormatDataCommand_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="GetData_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="GetWordCount_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="GetWordLength_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="HTMLInputCommand_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="HTTPQueryResultCommand" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="HTTPRequest_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IEBrowserClose_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IEBrowserCreate_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IEBrowserElementAction_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IEBrowserFindBrowser_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IEBrowserNavigateURL_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ImageRecognition_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LogData_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MessageBox_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ModifyVariable_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MoveFile_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MoveWindow_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NLGCreateInstance_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NLGGeneratePhrase_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NLGSetParameter_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OCR_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OSVariable_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ParseJSONArray_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ParseJson_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Pause_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PDFTextExtractor_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ReadTextFile_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="WindowsGroup_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Команды окон</Value>
+    </Setting>
+    <Setting Name="Execute_DLL_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Execute DLL) 执行DLL</Value>
+    </Setting>
+    <Setting Name="Execute_REST_API_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Execute REST API)执行REST API</Value>
+    </Setting>
+    <Setting Name="HTTP_Request_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(HTTP Request)HTTP请求</Value>
+    </Setting>
+    <Setting Name="HTTP_Result_Query_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(HTTP Result Query)HTTP结果查询</Value>
+    </Setting>
+    <Setting Name="Date_Calculation_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Date Calculation)日期计算</Value>
+    </Setting>
+    <Setting Name="Format_Data_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Format Data)格式数据</Value>
+    </Setting>
+    <Setting Name="Get_Word_Count_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Get Word Count)得到字数</Value>
+    </Setting>
+    <Setting Name="Get_Word_Length_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Get Word Length)得到字长</Value>
+    </Setting>
+    <Setting Name="Log_Data_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Log Data)日志数据</Value>
+    </Setting>
+    <Setting Name="Modify_Variable_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Modify Variable)修改变量</Value>
+    </Setting>
+    <Setting Name="Parse_JSON_Array_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Parse JSON Array)解析JSON数组</Value>
+    </Setting>
+    <Setting Name="Parse_JSON_Object_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Parse JSON Object)解析JSON对象</Value>
+    </Setting>
+    <Setting Name="PDF_Extraction_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(PDF Extraction)PDF提取</Value>
+    </Setting>
+    <Setting Name="RegEx_Extraction_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(RegEx Extraction)RegEx提取</Value>
+    </Setting>
+    <Setting Name="Replace_Text_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Replace Text)替换文字</Value>
+    </Setting>
+    <Setting Name="Split_Text_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Split Text)替换文字</Value>
+    </Setting>
+    <Setting Name="Substring_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Substring)子</Value>
+    </Setting>
+    <Setting Name="Text_Extraction_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Text Extraction)文本提取</Value>
+    </Setting>
+    <Setting Name="Error_handling_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Error handling)错误处理</Value>
+    </Setting>
+    <Setting Name="Get_BotStore_Data_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Get BotStore Data)获取BotStore数据</Value>
+    </Setting>
+    <Setting Name="Pause_Script_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Pause Script)暂停脚本</Value>
+    </Setting>
+    <Setting Name="Set_Engine_Delay_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Set Engine Delay)设置引擎延迟</Value>
+    </Setting>
+    <Setting Name="Stopwatch_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Stopwatch)跑表</Value>
+    </Setting>
+    <Setting Name="Upload_BotStore_Data_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Upload BotStore Data)上传BotStore数据</Value>
+    </Setting>
+    <Setting Name="Activate_Sheet_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Activate Sheet)激活工作表</Value>
+    </Setting>
+    <Setting Name="Add_Workbook_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Add Workbook)添加工作簿</Value>
+    </Setting>
+    <Setting Name="Close_Excel_Application_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Close Excel Application)关闭Excel应用程序</Value>
+    </Setting>
+    <Setting Name="Create_Dataset_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Create Dataset)创建数据集</Value>
+    </Setting>
+    <Setting Name="Create_Excel_Application_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Create Excel Application)创建Excel应用程序</Value>
+    </Setting>
+    <Setting Name="Delete_Cell_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Delete Cell)删除单元格</Value>
+    </Setting>
+    <Setting Name="Delete_Row_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Delete Row)删除行</Value>
+    </Setting>
+    <Setting Name="Get_Cell_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Get Cell)获取细胞</Value>
+    </Setting>
+    <Setting Name="Get_Last_Row_Index_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Get Last Row Index)获取最后一行索引</Value>
+    </Setting>
+    <Setting Name="Go_To_Cell_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Go To Cell)转到细胞</Value>
+    </Setting>
+    <Setting Name="Open_Workbook_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Open Workbook)打开工作簿</Value>
+    </Setting>
+    <Setting Name="Run_Macro_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Run Macro)运行宏</Value>
+    </Setting>
+    <Setting Name="Save_Workbook_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Save Workbook)保存工作簿</Value>
+    </Setting>
+    <Setting Name="Save_Workbook_As_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Save Workbook As)将工作簿另存为</Value>
+    </Setting>
+    <Setting Name="Set_Cell_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Set Cell)设置单元格</Value>
+    </Setting>
+    <Setting Name="Delete_File_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Delete File)删除文件</Value>
+    </Setting>
+    <Setting Name="Move_Copy_File_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Move/Copy File)移动/复制文件</Value>
+    </Setting>
+    <Setting Name="Rename_File_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Rename File)重新命名文件</Value>
+    </Setting>
+    <Setting Name="Wait_For_File_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Wait For File)等待文件</Value>
+    </Setting>
+    <Setting Name="Close_Browser_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Close Browser)关闭浏览器</Value>
+    </Setting>
+    <Setting Name="Create_Browser_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Create Browser)创建浏览器</Value>
+    </Setting>
+    <Setting Name="Element_Action_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Element Action)元素行动</Value>
+    </Setting>
+    <Setting Name="Find_Browser_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Find Browser)查找浏览器</Value>
+    </Setting>
+    <Setting Name="Navigate_to_URL_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Navigate to URL)导航到URL</Value>
+    </Setting>
+    <Setting Name="Begin_If_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Begin If)从如果开始</Value>
+    </Setting>
+    <Setting Name="Else_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Else)其他</Value>
+    </Setting>
+    <Setting Name="End_If_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(End If)万一</Value>
+    </Setting>
+    <Setting Name="Image_Recognition_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Image Recognition)图像识别</Value>
+    </Setting>
+    <Setting Name="Perform_OCR_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Perform OCR)执行OCR</Value>
+    </Setting>
+    <Setting Name="Take_Screenshot_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Take Screenshot)截图</Value>
+    </Setting>
+    <Setting Name="Prompt_for_HTML_Input_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Prompt for HTML Input)提示输入HTML</Value>
+    </Setting>
+    <Setting Name="Prompt_for_Input_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Prompt for Input)提示输入</Value>
+    </Setting>
+    <Setting Name="Send_Advanced_Keystrokes_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Send Advanced Keystrokes)发送高级击键</Value>
+    </Setting>
+    <Setting Name="Send_Keystrokes_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Send Keystrokes)发送击键</Value>
+    </Setting>
+    <Setting Name="Send_Mouse_Click_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Send Mouse Click)发送鼠标单击</Value>
+    </Setting>
+    <Setting Name="Send_Mouse_Move_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Send Mouse Move)发送鼠标移动</Value>
+    </Setting>
+    <Setting Name="UI_Automation_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(UI Automation)UI自动化</Value>
+    </Setting>
+    <Setting Name="End_Loop_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(End Loop)结束循环</Value>
+    </Setting>
+    <Setting Name="Exit_Loop_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Exit Loop)退出循环</Value>
+    </Setting>
+    <Setting Name="Loop_Continuously_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Loop Continuously)循环不断</Value>
+    </Setting>
+    <Setting Name="Loop_Dataset_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Loop Dataset)循环数据集</Value>
+    </Setting>
+    <Setting Name="Loop_List_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Loop List)循环列表</Value>
+    </Setting>
+    <Setting Name="Loop_Number_Of_Times_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Loop Number Of Times)循环次数</Value>
+    </Setting>
+    <Setting Name="Add_Code_Comment_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Add Code Comment)添加代码注释</Value>
+    </Setting>
+    <Setting Name="Get_Clipboard_Text_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Get Clipboard Text)获取剪贴板文本</Value>
+    </Setting>
+    <Setting Name="Send_SMTP_Email_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Send SMTP Email)发送SMTP电子邮件</Value>
+    </Setting>
+    <Setting Name="Sequence_Command_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Sequence Command)序列命令</Value>
+    </Setting>
+    <Setting Name="Set_Clipboard_Text_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Set Clipboard Text)设置剪贴板文本</Value>
+    </Setting>
+    <Setting Name="Show_Message_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Show Message)显示消息</Value>
+    </Setting>
+    <Setting Name="Create_NLG_Instance_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Create NLG Instance)创建NLG实例</Value>
+    </Setting>
+    <Setting Name="Generate_NLG_Phrase_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Generate NLG Phrase)生成NLG短语</Value>
+    </Setting>
+    <Setting Name="Set_NLG_Parameter_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Set NLG Parameter)设置NLG参数</Value>
+    </Setting>
+    <Setting Name="Run_Custom_Code_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Run Custom Code)运行自定义代码</Value>
+    </Setting>
+    <Setting Name="Run_Script_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Run Script)运行脚本</Value>
+    </Setting>
+    <Setting Name="Start_Process_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Start Process)开始流程</Value>
+    </Setting>
+    <Setting Name="Stop_Process_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Stop Process)停止流程</Value>
+    </Setting>
+    <Setting Name="Environment_Variable_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Environment Variable)环境变量</Value>
+    </Setting>
+    <Setting Name="Launch_Remote_Desktop_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Launch Remote Desktop)启动远程桌面</Value>
+    </Setting>
+    <Setting Name="OS_Variable_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(OS Variable)OS变量</Value>
+    </Setting>
+    <Setting Name="System_Action_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(System Action)系统行动</Value>
+    </Setting>
+    <Setting Name="Run_Task_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Run Task)运行任务</Value>
+    </Setting>
+    <Setting Name="Stop_Current_Task_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Stop Current Task)停止当前任务</Value>
+    </Setting>
+    <Setting Name="Read_Text_File_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Read Text File)阅读文本文件</Value>
+    </Setting>
+    <Setting Name="Write_Text_File_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Write Text File)写文本文件</Value>
+    </Setting>
+    <Setting Name="Add_To_Variable_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Add To Variable)添加到变量</Value>
+    </Setting>
+    <Setting Name="New_Variable_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(New Variable)新变量</Value>
+    </Setting>
+    <Setting Name="Set_Variable_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Set Variable)设置变量</Value>
+    </Setting>
+    <Setting Name="Set_Variable_Index_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Set Variable Index)设置变量索引</Value>
+    </Setting>
+    <Setting Name="Close_Web_Browser_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Close Browser)关闭浏览器</Value>
+    </Setting>
+    <Setting Name="Create_Web_Browser_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Create Browser)创建浏览器</Value>
+    </Setting>
+    <Setting Name="Element_Web_Action_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Element Action)元素行动</Value>
+    </Setting>
+    <Setting Name="Execute_Script_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Execute Script)执行脚本</Value>
+    </Setting>
+    <Setting Name="Navigate_Back_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Navigate Back)导航回来</Value>
+    </Setting>
+    <Setting Name="Navigate_Forward_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Navigate Forward)向前导航</Value>
+    </Setting>
+    <Setting Name="Navigate_to_Web_URL_cn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(Navigate to URL)导航到URL</Value>
+    </Setting>
+    <Setting Name="Refresh_cn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(Refresh)刷新</Value>
+    </Setting>
+    <Setting Name="Activate_Window_cn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(Activate Window)激活窗口</Value>
+    </Setting>
+    <Setting Name="Close_Window_cn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(Close Window)关闭窗口</Value>
+    </Setting>
+    <Setting Name="Move_Window_cn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(Move Window)移动窗口</Value>
+    </Setting>
+    <Setting Name="Resize_Window_cn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(Resize Window)调整窗口大小</Value>
+    </Setting>
+    <Setting Name="Set_Window_State_cn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(Set Window State)设置窗口状态</Value>
+    </Setting>
+    <Setting Name="Wait_For_Window_To_Exist_cn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(Wait For Window To Exist)等待窗口存在</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
